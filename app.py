@@ -103,15 +103,15 @@ def api_data():
         data = [
             {
                 "id": 9,
-                "invaite_user": "854576874429",
-                "my_invaite": "51318627688",
+                "invaite_user": "51318627688",
+                "my_invaite": "426124254112",
                 "changer": 7,
                 "package": "com.india.diuwinhack3294",
                 "persent": 30,
                 "user_telegram": "https://t.me/arjun_earn",
                 "my_telegram": "@arjun_earn",
                 "AppVersion": 1,
-                "working_link": "https://diuwin.club",
+                "working_link": "https://diuwinapp.club",
                 "start": 1,
                 "login_url": "https://firebase-flask-app.onrender.com/diuwin2.0/login.php?number=",
                 "register_url": "https://pesagyan.com/diuwin2.0/register.php?number=",
