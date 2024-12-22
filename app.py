@@ -103,8 +103,8 @@ def api_data():
         data = [
             {
                 "id": 9,
-                "invaite_user": "51318627688",
-                "my_invaite": "426124254112",
+                "invaite_user": "854576874429",
+                "my_invaite": "51318627688",
                 "changer": 7,
                 "package": "com.india.diuwinhack3294",
                 "persent": 30,
