@@ -116,7 +116,7 @@ def api_data():
                 "start":1,
                 "login_url":"https://pesagyan.com/diuwin2.0/login.php?number=",
                 "register_url":"https://pesagyan.com/diuwin2.0/register.php?number=",
-                "appName":"Diuwin Manish"}
+                "appName":"Diuwin Manish"
             }
         ]
 
