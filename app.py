@@ -109,14 +109,14 @@ def api_data():
                 "changer":4,
                 "package":"com.india.diuwinhack3294",
                 "persent":30,
-                "user_telegram":"https:\/\/t.me\/arjun_earn",
+                "user_telegram":"https://t.me/arjun_earn",
                 "my_telegram":"@arjun_earn",
                 "AppVersion":1,
-                "working_link":"https:\/\/diuwin.bet",
+                "working_link":"https://diuwin.bet",
                 "start":1,
-                "login_url":"https:\/\/pesagyan.com\/diuwin2.0\/login.php?number=",
-                "register_url":"https:\/\/pesagyan.com\/diuwin2.0\/register.php?number=",
-                "appName":"Diuwin Manish"
+                "login_url":"https://pesagyan.com/diuwin2.0/login.php?number=",
+                "register_url":"https://pesagyan.com/diuwin2.0/register.php?number=",
+                "appName":"Diuwin Manish"}
             }
         ]
 
