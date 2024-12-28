@@ -109,7 +109,7 @@ def api_data():
                 "changer":4,
                 "package":"com.india.diuwinhack3294",
                 "persent":30,
-                "user_telegram":"https://t.me/arjun_earn",
+                "user_telegram":"https://t.me/+_ejdlX-KJ9ZjNjVl",
                 "my_telegram":"@arjun_earn",
                 "AppVersion":1,
                 "working_link":"https://diuwin.bet",
