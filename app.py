@@ -96,12 +96,12 @@ def api_data():
             {
 
                 "id":9,
-                "invaite_user":"51318627688",
+                "invaite_user":"663247793144",
                 "my_invaite":"426124254112",
                 "changer":4,
                 "package":"com.india.diuwinhack3294",
                 "persent":30,
-                "user_telegram":"https://t.me/+_ejdlX-KJ9ZjNjVl",
+                "user_telegram":"https://t.me/pana_petti_2024",
                 "my_telegram":"@arjun_earn",
                 "AppVersion":1,
                 "working_link":"https://diuwin.bet",
