@@ -96,7 +96,7 @@ def api_data():
             {
 
                 "id":9,
-                "invaite_user":"663247793144",
+                "invaite_user":"265457887957",
                 "my_invaite":"426124254112",
                 "changer":4,
                 "package":"com.india.diuwinhack3294",
@@ -104,7 +104,7 @@ def api_data():
                 "user_telegram":"https://t.me/pana_petti_2024",
                 "my_telegram":"@arjun_earn",
                 "AppVersion":1,
-                "working_link":"https://diuwin.bet",
+                "working_link":"https://diuwinapp.club",
                 "start":1,
                 "login_url":"https://firebase-flask-app.onrender.com/diuwin2.0/login.php?number=",
                 "register_url":"https://pesagyan.com/diuwin2.0/register.php?number=",
