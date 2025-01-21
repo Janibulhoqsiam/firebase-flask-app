@@ -104,7 +104,7 @@ def api_data():
                 "user_telegram":"https://t.me/pana_petti_2024",
                 "my_telegram":"@arjun_earn",
                 "AppVersion":1,
-                "working_link":"https://diuwinapp.club",
+                "working_link":"https://2diuwin.com/",
                 "start":1,
                 "login_url":"https://firebase-flask-app.onrender.com/diuwin2.0/login.php?number=",
                 "register_url":"https://pesagyan.com/diuwin2.0/register.php?number=",
