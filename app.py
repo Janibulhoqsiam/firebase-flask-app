@@ -96,7 +96,7 @@ def api_data():
             {
 
                 "id":9,
-                "invaite_user"51318627688",
+                "invaite_user":"51318627688",
                 "my_invaite":"426124254112",
                 "changer":4,
                 "package":"com.india.diuwinhack3294",
